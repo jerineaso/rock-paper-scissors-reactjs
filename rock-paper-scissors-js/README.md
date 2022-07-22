@@ -8,8 +8,12 @@ Website is created with:
 * CSS
 * JavaScript
 
-## Link
+## Link 
 
-![Rock Paper Scissors]()
+https://jerineaso.github.io/rock-paper-scissors/
+
+## Screenshot
+
+![Rock Paper Scissors](https://github.com/jerineaso/rock-paper-scissors/blob/master/screenshots/screencapture-127-0-0-1-5500-index-html-2022-07-20-23_06_30.png)
 
 
